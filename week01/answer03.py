@@ -16,6 +16,7 @@ def get_len_of_str(str):
 
 # dynamic programing 기법으로 해결
 
+
 # solution2
 def get_len_of_str2(str):
     max_count = 1
